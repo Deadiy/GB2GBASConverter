@@ -1,5 +1,6 @@
 # GB2GBASConverter
 This Requires Goomba GB Converter, only works with goomba.gba right now.
+link: http://www.webpersona.com/goomba/downloads.html
 
 This project does the following:
   -searches all .gb and .gbc games in a directory
